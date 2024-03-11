@@ -13,5 +13,5 @@
 [好讀](https://www.haodoo.net/)
 
 [不少字體可以下載，但需要轉檔](https://freefontsfile.com/)
-  - [rar 轉成　zip](https://extract.me/)
+  - [rar 轉成 zip](https://extract.me/)
   - [ttc 轉成 fft](https://www.maketecheasier.com/how-to-convert-fonts-to-ttf-format-in-ubuntu/)
